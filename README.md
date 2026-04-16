@@ -1,49 +1,104 @@
- # Power BI Repository
+# Sales Analytics Dashboard (Power BI)
 
- # About
+A collection of interactive Power BI dashboards focused on analyzing sales performance, customer behavior, and business trends across e-commerce and retail datasets. This project demonstrates how data visualization and analytics can support business decision-making.
 
-This repository is a collection of Power BI projects I have worked on to showcase my skills and expertise in data visualization, business intelligence, and analytical reporting. Power BI is a powerful data analytics and visualization tool that has become an increasingly important part of the modern data ecosystem.
+---
 
-The projects in this repository demonstrate my ability to:
+## 📊 Project Overview
 
-- Connect to a variety of data sources, including databases, spreadsheets, and cloud-based services.
+This repository includes multiple Power BI dashboards built to analyze:
 
-- Transform and clean data using Power Query.
+- E-commerce sales performance  
+- Retail (Superstore) sales trends  
+- Customer and product insights  
 
-- Create interactive and visually appealing reports and dashboards.
+The goal was to transform raw data into meaningful, interactive dashboards that help stakeholders track KPIs, identify trends, and make data-driven decisions.
 
-- Implement advanced analytical features such as measures, calculated columns, and DAX calculations
+---
 
-By exploring these Power BI projects, you'll get a glimpse into my problem-solving abilities attention to detail, and commitment to delivering impactful data insights. I've worked on a diverse range of topics, from sales and marketing analytics to HR performance -monitoring, forecasting and financial reporting.
+## 🎯 Business Objective
 
-![Screenshot (14)](https://github.com/user-attachments/assets/17697428-dbe5-42d7-a815-d629b96a6617)
+- Analyze sales, profit, and quantity trends across categories and regions  
+- Track key business KPIs (Revenue, Profit, AOV, Orders)  
+- Identify high-performing products and customer segments  
+- Improve decision-making through interactive dashboards  
 
-![Screenshot (20)](https://github.com/user-attachments/assets/37357daa-c1b0-4835-a90d-98bea319d06b)
+---
 
-![Screenshot (21)](https://github.com/user-attachments/assets/0f41c4c6-b220-464e-b145-7bf4d3b98cde)
+## 🛠️ Tools & Technologies
 
-# Projects Overview
-These projects involves the development of an interactive dashboard for the visualizing **e-commerce sales** and** super store sales **data using Power BI. 
-The dashboard was designed to enhance data visualization, improve decision-making efficiency, and facilitate in-depth analysis of key sales metrics.
-## Objectives
--	Improve data visualization and insights for e-commerce sales.
--	Reduce time spent on data querying and report generation.
--	Enhance user interaction with customizable filters and slicers.
-## Technologies Used
--	**Power BI:** For creating interactive and visually appealing dashboards.
--	**DAX (Data Analysis Expressions):** For creating calculated columns and measures.
--	**Power Query:** For data transformation and preparation.
-## Key Features
--	**Interactive Dashboard:** Developed a dynamic dashboard that provides real-time insights into e-commerce sales data.
--	**Data Visualization:** Implemented a range of visualizations, including bar charts, pie charts, and donut charts, tailored to user requirements.
--	**Custom Filters:** Enabled in-depth data analysis with complex parameters and custom filters.
--	**Enhanced Data Accuracy**: Optimized data connections by joining tables and performing calculations, supporting key performance indicators (KPIs).
--	**User Interaction:** Integrated slicers and customizable filters to improve user engagement and satisfaction.
-## Results
--	**Increased Insights**: Improved data visualization and insights for e-commerce sales, leading to a 30% increase in actionable insights and decision-making efficiency.
--	**Efficiency Gains**: Achieved a 25% reduction in time spent on data querying and report generation.
--	**Enhanced Data Clarity:** Improved data interpretation and presentation clarity by 40%.
--	**User Engagement:** Enhanced user interaction, leading to a 15% increase in user engagement and satisfaction with the dashboard.
-## Conclusion 
-This project successfully developed an interactive Power BI dashboard for e-commerce sales, enhancing data visualization, efficiency, accuracy, and user engagement, significantly improving actionable insights and decision-making.
+- **Power BI** – Dashboard development & visualization  
+- **DAX** – KPI calculations and business metrics  
+- **Power Query** – Data cleaning and transformation  
 
+---
+
+## 📊 Dashboards Included
+
+### 🔹 E-commerce Sales Performance Dashboard
+- KPI tracking: Revenue, Profit, Quantity, Average Order Value  
+- Category and sub-category performance analysis  
+- Payment mode and customer-level insights  
+- Monthly profit trends and seasonality  
+
+---
+
+### 🔹 Retail Sales Performance Dashboard
+- Sales and profit analysis across regions and states  
+- Category and segment-level performance  
+- Geographic sales distribution (map view)  
+- Order trends and delivery performance  
+
+---
+
+## 🔍 Key Features
+
+- Interactive dashboards with slicers and filters  
+- Multi-dimensional analysis (category, region, customer)  
+- KPI-driven insights for business monitoring  
+- Drill-down capabilities for deeper analysis  
+
+---
+
+## 📈 Business Insights
+
+- Identified top-performing product categories contributing to revenue  
+- Highlighted regional sales trends and high-growth markets  
+- Analyzed customer segments driving maximum sales  
+- Tracked profit fluctuations and seasonal demand patterns  
+
+---
+
+## 🚀 Business Impact
+
+- Improved decision-making through real-time data visualization  
+- Reduced manual reporting effort and data analysis time  
+- Enabled faster identification of trends and opportunities  
+- Enhanced stakeholder understanding of business performance  
+
+---
+
+## 📂 Files Included
+
+- Power BI Dashboard Files (`.pbix`)  
+- Dashboard screenshots  
+- README documentation  
+
+---
+
+## 🎯 Outcome
+
+This project demonstrates the ability to build interactive dashboards, analyze business data, and present insights effectively — making it relevant for **Business Analyst, Product Analyst, and BI Analyst roles**.
+
+---
+
+## 👩‍💼 About Me
+
+Hi, I’m Mehak Mehta — a Business & Product Analyst with hands-on experience in SQL, Power BI, Excel, and Data Analysis.
+
+I enjoy transforming raw data into actionable insights that drive business decisions.
+
+📬 Let’s connect:  
+https://www.linkedin.com/in/mehak-mehta-621714260/
+
+---
